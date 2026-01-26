@@ -1,37 +1,37 @@
-# RecipeBook
+## Hi, I'm Youssef Ahmed 👋  
+### Backend .NET Developer | Computer Science Student
 
-**RecipeBook** is a simple software solution for managing and organizing recipes digitally instead of keeping them scattered on paper.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME)
 
-The application allows users to store, view, and manage their personal recipes in one place.
+```python
+class YoussefAhmed:
 
----
+    def __init__(self):
+        self.username = 'USERNAME'
+        self.name = 'Youssef Ahmed'
+        self.position = 'Backend .NET Developer'
+        self.education = 'Computer Science Student'
+        self.languages = ['Arabic', 'English']
+        self.code = {
+            'backend': ['C#', '.NET', 'ASP.NET Core', 'Entity Framework'],
+            'programming': ['Python', 'C', 'C++'],
+            'database': ['SQL Server', 'MySQL'],
+            'tools': ['Git', 'GitHub', 'Postman', 'Visual Studio', 'VS Code'],
+            'concepts': [
+                'OOP', 'SOLID', 'Clean Architecture',
+                'REST APIs', 'Data Structures', 'Algorithms'
+            ]
+        }
+        self.current_focus = [
+            'Advanced ASP.NET Core',
+            'Backend System Design',
+            'Performance & Optimization'
+        ]
 
-## 📥 Download
+    def __str__(self):
+        return f'{self.name} | {self.position}'
 
-Precompiled binaries for **Windows** and **Linux** are available on the  
-👉 [Releases](https://github.com/cheesits456/RecipeBook/releases) page.
 
----
-
-## 🖼️ Examples
-
-<img width="1214" height="690" alt="Recipe List" src="https://github.com/user-attachments/assets/3526cc0b-b82a-4dc6-bf06-f42ffb74a8e8" />
-
-<img width="1214" height="690" alt="Recipe View" src="https://github.com/user-attachments/assets/9a47a292-46e3-4c62-9a61-e34cf0a9eaa1" />
-
-<img width="1214" height="690" alt="Recipe Editor" src="https://github.com/user-attachments/assets/6c4dc9a4-8cd7-40cd-b087-16424fe9ba16" />
-
----
-
-## ⚙️ Running from Source & Compiling
-
-> ⚠️ **Note**  
-> This application was developed on **Linux**, so the provided build scripts **will not work on Windows**.
-
-### Prerequisites
-- Node.js
-- npm
-
-### Install Dependencies
-```bash
-npm install
+if __name__ == '__main__':
+    me = YoussefAhmed()
+    print(me)
