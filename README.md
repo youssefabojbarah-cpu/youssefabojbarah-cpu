@@ -1,92 +1,79 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Youssef%20Ahmed&fontSize=40&fontColor=ffffff&desc=Backend%20.NET%20Developer&descAlignY=65)
+<div align="center">
 
 # Hi, I'm Youssef Ahmed 👋
 
-## 💻 Backend .NET Developer
+**Backend .NET Developer** — I build clean, structured backend systems where every layer has a clear job.
 
-I am a passionate Backend Developer focused on building scalable and clean backend systems using **ASP.NET Core** and **SQL Server**.
+[![Email](https://img.shields.io/badge/youssefabujbarah@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youssefabujbarah@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/youssefabojbarah-cpu)
 
-I enjoy designing real-world systems and improving my skills in software architecture, system design, and clean code principles.
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Computer Science Student
-- 💻 Backend Developer (.NET / C#)
-- 🏗️ Focused on Clean Architecture & System Design
-- 📚 Always learning and improving backend skills
-- 🎯 Goal: Become a strong Backend Engineer
+- 🎓 Computer Science student focused on software engineering fundamentals
+- 🏗️ I care about **Clean Architecture**, **SOLID**, and writing code that makes sense 6 months later
+- 🔍 Currently sharpening **DSA** and **ASP.NET Core Web API** skills
+- 🎯 Goal: contribute to real backend systems at a product company
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### 👨‍💻 Backend
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- LINQ
-- RESTful APIs
-
-### 🗄️ Database
-- SQL Server
-
-### 🔧 Tools
-- Git & GitHub
-- Visual Studio
-- Postman
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D4?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID-2EA043?style=flat)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-6B4FBB?style=flat)
 
 ---
 
-## 🚀 Featured Project (Main Project)
+## 🚀 Featured Project
 
 ### 📚 Smart Library Management System
 
-A full backend system designed to manage library operations efficiently with authentication and role-based access control.
+> Libraries lose books and have no visibility into who has what. This system fixes that — tracking every book, member, and borrow transaction through a clean, layered backend.
 
-**Tech Stack:**
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- Identity Authentication
+Built across three fully independent layers (Domain → Application → Infrastructure), where swapping the storage engine requires changing **zero business logic**.
 
-**Features:**
-- User authentication & role management (Admin / User)
-- Book management system
-- Borrow & return system
-- Admin dashboard
-- Clean and structured architecture
+**Key technical decisions:**
+- Domain entities use `private set` — state only changes through behavior methods that enforce rules
+- Services depend on interfaces, not concrete classes (Dependency Inversion in practice)
+- JSON serialization solved without circular refs — stores IDs, reconstructs object graphs on load
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0078D4?style=flat)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-6B4FBB?style=flat)
+
+[![View Project](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/youssefabojbarah-cpu/SmartLibraryManagementSystem)
 
 ---
 
 ## 📌 Other Projects
 
-- 🏦 Bank Management System (Console App)
-- 🚀 Upcoming: E-commerce Backend System (ASP.NET Core Web API)
+| Project | Stack |
+|---|---|
+| 🏦 Bank Management System | C# · OOP · Repository Pattern · xUnit |
+| 🗂️ Task Management System | C# · OOP · File Persistence · Unit Tests |
+| 🛒 E-commerce Backend *(in progress)* | ASP.NET Core · SQL Server · Web API |
 
 ---
 
 ## 📈 Currently Learning
 
-- ASP.NET Core Web API (Advanced)
-- Clean Architecture
-- Design Patterns
-- System Design Basics
+- **DSA** — Arrays, Two Pointers, Sliding Window, Binary Search, Hashing
+- **ASP.NET Core Web API** — REST design, middleware, routing
+- **System Design** — breaking down scalable backend architectures
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefabojbarah-cpu
-/&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefabojbarah-cpu&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-## 📫 Contact Me
-
-- Email: youssefabujbarah@gmail.com
-
----
-
-⭐ "Consistency beats talent when talent doesn't work hard."
+</div>
