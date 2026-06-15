@@ -1,36 +1,93 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Youssef%20Ahmed&fontSize=40&fontColor=ffffff&desc=Backend%20.NET%20Developer&descAlignY=65)
 
-## 👋 Hi there
-I'm **Youssef Ahmed**  
-💻 Backend .NET Developer  
-🎓 Computer Science Student  
-🚀 Passionate about backend systems & problem solving  
+# Hi, I'm Youssef Ahmed 👋
+
+## 💻 Backend .NET Developer
+
+I am a passionate Backend Developer focused on building scalable and clean backend systems using **ASP.NET Core** and **SQL Server**.
+
+I enjoy designing real-world systems and improving my skills in software architecture, system design, and clean code principles.
 
 ---
 
-## 🚀 Technologies & Tools
+## 🧠 About Me
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,c,cpp" />
-</p>
-
-### 🧰 Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,mysql,postman" />
-</p>
-
-### ⚙️ Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux" />
-</p>
+- 🎓 Computer Science Student
+- 💻 Backend Developer (.NET / C#)
+- 🏗️ Focused on Clean Architecture & System Design
+- 📚 Always learning and improving backend skills
+- 🎯 Goal: Become a strong Backend Engineer
 
 ---
 
-## 📚 Currently Learning
-- Advanced ASP.NET Core  
-- Data Structures & Algorithms  
-- Backend System Design  
-- Database Optimization  
+## 🛠️ Technologies & Tools
+
+### 👨‍💻 Backend
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- LINQ
+- RESTful APIs
+
+### 🗄️ Database
+- SQL Server
+
+### 🔧 Tools
+- Git & GitHub
+- Visual Studio
+- Postman
 
 ---
+
+## 🚀 Featured Project (Main Project)
+
+### 📚 Smart Library Management System
+
+A full backend system designed to manage library operations efficiently with authentication and role-based access control.
+
+**Tech Stack:**
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Identity Authentication
+
+**Features:**
+- User authentication & role management (Admin / User)
+- Book management system
+- Borrow & return system
+- Admin dashboard
+- Clean and structured architecture
+
+---
+
+## 📌 Other Projects
+
+- 🏦 Bank Management System (Console App)
+- 🚀 Upcoming: E-commerce Backend System (ASP.NET Core Web API)
+
+---
+
+## 📈 Currently Learning
+
+- ASP.NET Core Web API (Advanced)
+- Clean Architecture
+- Design Patterns
+- System Design Basics
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefabojbarah-cpu
+/&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- Email: your-email@gmail.com
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+⭐ "Consistency beats talent when talent doesn't work hard."
