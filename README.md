@@ -85,8 +85,7 @@ A full backend system designed to manage library operations efficiently with aut
 
 ## 📫 Contact Me
 
-- Email: your-email@gmail.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: youssefabujbarah@gmail.com
 
 ---
 
